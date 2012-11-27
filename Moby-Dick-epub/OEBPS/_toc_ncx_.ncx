@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="uid" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Moby-Dick</text>
+  </docTitle>
+  <docAuthor>
+    <text>Herman Melville</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cvi" playOrder="1">
+      <navLabel>
+        <text>Cover Page</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_cvi_r1.htm" />
+    </navPoint>
+    <navPoint id="tp" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_tp_r1.htm" />
+    </navPoint>
+    <navPoint id="toc" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_toc_r1.htm" />
+    </navPoint>
+    <navPoint id="ded" playOrder="4">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_ded_r1.htm" />
+    </navPoint>
+    <navPoint id="itr" playOrder="5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_itr_r1.htm" />
+    </navPoint>
+    <navPoint id="fm1" playOrder="6">
+      <navLabel>
+        <text>Etymology</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_fm1_r1.htm" />
+    </navPoint>
+    <navPoint id="fm2" playOrder="7">
+      <navLabel>
+        <text>Extracts</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_fm2_r1.htm" />
+    </navPoint>
+    <navPoint id="c01" playOrder="8">
+      <navLabel>
+        <text>CHAPTER 1</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c01_r1.htm" />
+    </navPoint>
+    <navPoint id="c02" playOrder="9">
+      <navLabel>
+        <text>CHAPTER 2</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c02_r1.htm" />
+    </navPoint>
+    <navPoint id="c03" playOrder="10">
+      <navLabel>
+        <text>CHAPTER 3</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c03_r1.htm" />
+    </navPoint>
+    <navPoint id="c04" playOrder="11">
+      <navLabel>
+        <text>CHAPTER 4</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c04_r1.htm" />
+    </navPoint>
+    <navPoint id="c05" playOrder="12">
+      <navLabel>
+        <text>CHAPTER 5</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c05_r1.htm" />
+    </navPoint>
+    <navPoint id="c06" playOrder="13">
+      <navLabel>
+        <text>CHAPTER 6</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c06_r1.htm" />
+    </navPoint>
+    <navPoint id="c07" playOrder="14">
+      <navLabel>
+        <text>CHAPTER 7</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c07_r1.htm" />
+    </navPoint>
+    <navPoint id="c08" playOrder="15">
+      <navLabel>
+        <text>CHAPTER 8</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c08_r1.htm" />
+    </navPoint>
+    <navPoint id="c09" playOrder="16">
+      <navLabel>
+        <text>CHAPTER 9</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c09_r1.htm" />
+    </navPoint>
+    <navPoint id="c10" playOrder="17">
+      <navLabel>
+        <text>CHAPTER 10</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c10_r1.htm" />
+    </navPoint>
+    <navPoint id="c11" playOrder="18">
+      <navLabel>
+        <text>CHAPTER 11</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c11_r1.htm" />
+    </navPoint>
+    <navPoint id="c12" playOrder="19">
+      <navLabel>
+        <text>CHAPTER 12</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c12_r1.htm" />
+    </navPoint>
+    <navPoint id="c13" playOrder="20">
+      <navLabel>
+        <text>CHAPTER 13</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c13_r1.htm" />
+    </navPoint>
+    <navPoint id="c14" playOrder="21">
+      <navLabel>
+        <text>CHAPTER 14</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c14_r1.htm" />
+    </navPoint>
+    <navPoint id="c15" playOrder="22">
+      <navLabel>
+        <text>CHAPTER 15</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c15_r1.htm" />
+    </navPoint>
+    <navPoint id="c16" playOrder="23">
+      <navLabel>
+        <text>CHAPTER 16</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c16_r1.htm" />
+    </navPoint>
+    <navPoint id="c17" playOrder="24">
+      <navLabel>
+        <text>CHAPTER 17</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c17_r1.htm" />
+    </navPoint>
+    <navPoint id="c18" playOrder="25">
+      <navLabel>
+        <text>CHAPTER 18</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c18_r1.htm" />
+    </navPoint>
+    <navPoint id="c19" playOrder="26">
+      <navLabel>
+        <text>CHAPTER 19</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c19_r1.htm" />
+    </navPoint>
+    <navPoint id="c20" playOrder="27">
+      <navLabel>
+        <text>CHAPTER 20</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c20_r1.htm" />
+    </navPoint>
+    <navPoint id="c21" playOrder="28">
+      <navLabel>
+        <text>CHAPTER 21</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c21_r1.htm" />
+    </navPoint>
+    <navPoint id="c22" playOrder="29">
+      <navLabel>
+        <text>CHAPTER 22</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c22_r1.htm" />
+    </navPoint>
+    <navPoint id="c23" playOrder="30">
+      <navLabel>
+        <text>CHAPTER 23</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c23_r1.htm" />
+    </navPoint>
+    <navPoint id="c24" playOrder="31">
+      <navLabel>
+        <text>CHAPTER 24</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c24_r1.htm" />
+    </navPoint>
+    <navPoint id="c25" playOrder="32">
+      <navLabel>
+        <text>CHAPTER 25</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c25_r1.htm" />
+    </navPoint>
+    <navPoint id="c26" playOrder="33">
+      <navLabel>
+        <text>CHAPTER 26</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c26_r1.htm" />
+    </navPoint>
+    <navPoint id="c27" playOrder="34">
+      <navLabel>
+        <text>CHAPTER 27</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c27_r1.htm" />
+    </navPoint>
+    <navPoint id="c28" playOrder="35">
+      <navLabel>
+        <text>CHAPTER 28</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c28_r1.htm" />
+    </navPoint>
+    <navPoint id="c29" playOrder="36">
+      <navLabel>
+        <text>CHAPTER 29</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c29_r1.htm" />
+    </navPoint>
+    <navPoint id="c30" playOrder="37">
+      <navLabel>
+        <text>CHAPTER 30</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c30_r1.htm" />
+    </navPoint>
+    <navPoint id="c31" playOrder="38">
+      <navLabel>
+        <text>CHAPTER 31</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c31_r1.htm" />
+    </navPoint>
+    <navPoint id="c32" playOrder="39">
+      <navLabel>
+        <text>CHAPTER 32</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c32_r1.htm" />
+    </navPoint>
+    <navPoint id="c33" playOrder="40">
+      <navLabel>
+        <text>CHAPTER 33</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c33_r1.htm" />
+    </navPoint>
+    <navPoint id="c34" playOrder="41">
+      <navLabel>
+        <text>CHAPTER 34</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c34_r1.htm" />
+    </navPoint>
+    <navPoint id="c35" playOrder="42">
+      <navLabel>
+        <text>CHAPTER 35</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c35_r1.htm" />
+    </navPoint>
+    <navPoint id="c36" playOrder="43">
+      <navLabel>
+        <text>CHAPTER 36</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c36_r1.htm" />
+    </navPoint>
+    <navPoint id="c37" playOrder="44">
+      <navLabel>
+        <text>CHAPTER 37</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c37_r1.htm" />
+    </navPoint>
+    <navPoint id="c38" playOrder="45">
+      <navLabel>
+        <text>CHAPTER 38</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c38_r1.htm" />
+    </navPoint>
+    <navPoint id="c39" playOrder="46">
+      <navLabel>
+        <text>CHAPTER 39</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c39_r1.htm" />
+    </navPoint>
+    <navPoint id="c40" playOrder="47">
+      <navLabel>
+        <text>CHAPTER 40</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c40_r1.htm" />
+    </navPoint>
+    <navPoint id="c41" playOrder="48">
+      <navLabel>
+        <text>CHAPTER 41</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c41_r1.htm" />
+    </navPoint>
+    <navPoint id="c42" playOrder="49">
+      <navLabel>
+        <text>CHAPTER 42</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c42_r1.htm" />
+    </navPoint>
+    <navPoint id="c43" playOrder="50">
+      <navLabel>
+        <text>CHAPTER 43</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c43_r1.htm" />
+    </navPoint>
+    <navPoint id="c44" playOrder="51">
+      <navLabel>
+        <text>CHAPTER 44</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c44_r1.htm" />
+    </navPoint>
+    <navPoint id="c45" playOrder="52">
+      <navLabel>
+        <text>CHAPTER 45</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c45_r1.htm" />
+    </navPoint>
+    <navPoint id="c46" playOrder="53">
+      <navLabel>
+        <text>CHAPTER 46</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c46_r1.htm" />
+    </navPoint>
+    <navPoint id="c47" playOrder="54">
+      <navLabel>
+        <text>CHAPTER 47</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c47_r1.htm" />
+    </navPoint>
+    <navPoint id="c48" playOrder="55">
+      <navLabel>
+        <text>CHAPTER 48</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c48_r1.htm" />
+    </navPoint>
+    <navPoint id="c49" playOrder="56">
+      <navLabel>
+        <text>CHAPTER 49</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c49_r1.htm" />
+    </navPoint>
+    <navPoint id="c50" playOrder="57">
+      <navLabel>
+        <text>CHAPTER 50</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c50_r1.htm" />
+    </navPoint>
+    <navPoint id="c51" playOrder="58">
+      <navLabel>
+        <text>CHAPTER 51</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c51_r1.htm" />
+    </navPoint>
+    <navPoint id="c52" playOrder="59">
+      <navLabel>
+        <text>CHAPTER 52</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c52_r1.htm" />
+    </navPoint>
+    <navPoint id="c53" playOrder="60">
+      <navLabel>
+        <text>CHAPTER 53</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c53_r1.htm" />
+    </navPoint>
+    <navPoint id="c54" playOrder="61">
+      <navLabel>
+        <text>CHAPTER 54</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c54_r1.htm" />
+    </navPoint>
+    <navPoint id="c55" playOrder="62">
+      <navLabel>
+        <text>CHAPTER 55</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c55_r1.htm" />
+    </navPoint>
+    <navPoint id="c56" playOrder="63">
+      <navLabel>
+        <text>CHAPTER 56</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c56_r1.htm" />
+    </navPoint>
+    <navPoint id="c57" playOrder="64">
+      <navLabel>
+        <text>CHAPTER 57</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c57_r1.htm" />
+    </navPoint>
+    <navPoint id="c58" playOrder="65">
+      <navLabel>
+        <text>CHAPTER 58</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c58_r1.htm" />
+    </navPoint>
+    <navPoint id="c59" playOrder="66">
+      <navLabel>
+        <text>CHAPTER 59</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c59_r1.htm" />
+    </navPoint>
+    <navPoint id="c60" playOrder="67">
+      <navLabel>
+        <text>CHAPTER 60</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c60_r1.htm" />
+    </navPoint>
+    <navPoint id="c61" playOrder="68">
+      <navLabel>
+        <text>CHAPTER 61</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c61_r1.htm" />
+    </navPoint>
+    <navPoint id="c62" playOrder="69">
+      <navLabel>
+        <text>CHAPTER 62</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c62_r1.htm" />
+    </navPoint>
+    <navPoint id="c63" playOrder="70">
+      <navLabel>
+        <text>CHAPTER 63</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c63_r1.htm" />
+    </navPoint>
+    <navPoint id="c64" playOrder="71">
+      <navLabel>
+        <text>CHAPTER 64</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c64_r1.htm" />
+    </navPoint>
+    <navPoint id="c65" playOrder="72">
+      <navLabel>
+        <text>CHAPTER 65</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c65_r1.htm" />
+    </navPoint>
+    <navPoint id="c66" playOrder="73">
+      <navLabel>
+        <text>CHAPTER 66</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c66_r1.htm" />
+    </navPoint>
+    <navPoint id="c67" playOrder="74">
+      <navLabel>
+        <text>CHAPTER 67</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c67_r1.htm" />
+    </navPoint>
+    <navPoint id="c68" playOrder="75">
+      <navLabel>
+        <text>CHAPTER 68</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c68_r1.htm" />
+    </navPoint>
+    <navPoint id="c69" playOrder="76">
+      <navLabel>
+        <text>CHAPTER 69</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c69_r1.htm" />
+    </navPoint>
+    <navPoint id="c70" playOrder="77">
+      <navLabel>
+        <text>CHAPTER 70</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c70_r1.htm" />
+    </navPoint>
+    <navPoint id="c71" playOrder="78">
+      <navLabel>
+        <text>CHAPTER 71</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c71_r1.htm" />
+    </navPoint>
+    <navPoint id="c72" playOrder="79">
+      <navLabel>
+        <text>CHAPTER 72</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c72_r1.htm" />
+    </navPoint>
+    <navPoint id="c73" playOrder="80">
+      <navLabel>
+        <text>CHAPTER 73</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c73_r1.htm" />
+    </navPoint>
+    <navPoint id="c74" playOrder="81">
+      <navLabel>
+        <text>CHAPTER 74</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c74_r1.htm" />
+    </navPoint>
+    <navPoint id="c75" playOrder="82">
+      <navLabel>
+        <text>CHAPTER 75</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c75_r1.htm" />
+    </navPoint>
+    <navPoint id="c76" playOrder="83">
+      <navLabel>
+        <text>CHAPTER 76</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c76_r1.htm" />
+    </navPoint>
+    <navPoint id="c77" playOrder="84">
+      <navLabel>
+        <text>CHAPTER 77</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c77_r1.htm" />
+    </navPoint>
+    <navPoint id="c78" playOrder="85">
+      <navLabel>
+        <text>CHAPTER 78</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c78_r1.htm" />
+    </navPoint>
+    <navPoint id="c79" playOrder="86">
+      <navLabel>
+        <text>CHAPTER 79</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c79_r1.htm" />
+    </navPoint>
+    <navPoint id="c80" playOrder="87">
+      <navLabel>
+        <text>CHAPTER 80</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c80_r1.htm" />
+    </navPoint>
+    <navPoint id="c81" playOrder="88">
+      <navLabel>
+        <text>CHAPTER 81</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c81_r1.htm" />
+    </navPoint>
+    <navPoint id="c82" playOrder="89">
+      <navLabel>
+        <text>CHAPTER 82</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c82_r1.htm" />
+    </navPoint>
+    <navPoint id="c83" playOrder="90">
+      <navLabel>
+        <text>CHAPTER 83</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c83_r1.htm" />
+    </navPoint>
+    <navPoint id="c84" playOrder="91">
+      <navLabel>
+        <text>CHAPTER 84</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c84_r1.htm" />
+    </navPoint>
+    <navPoint id="c85" playOrder="92">
+      <navLabel>
+        <text>CHAPTER 85</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c85_r1.htm" />
+    </navPoint>
+    <navPoint id="c86" playOrder="93">
+      <navLabel>
+        <text>CHAPTER 86</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c86_r1.htm" />
+    </navPoint>
+    <navPoint id="c87" playOrder="94">
+      <navLabel>
+        <text>CHAPTER 87</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c87_r1.htm" />
+    </navPoint>
+    <navPoint id="c88" playOrder="95">
+      <navLabel>
+        <text>CHAPTER 88</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c88_r1.htm" />
+    </navPoint>
+    <navPoint id="c89" playOrder="96">
+      <navLabel>
+        <text>CHAPTER 89</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c89_r1.htm" />
+    </navPoint>
+    <navPoint id="c90" playOrder="97">
+      <navLabel>
+        <text>CHAPTER 90</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c90_r1.htm" />
+    </navPoint>
+    <navPoint id="c91" playOrder="98">
+      <navLabel>
+        <text>CHAPTER 91</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c91_r1.htm" />
+    </navPoint>
+    <navPoint id="c92" playOrder="99">
+      <navLabel>
+        <text>CHAPTER 92</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c92_r1.htm" />
+    </navPoint>
+    <navPoint id="c93" playOrder="100">
+      <navLabel>
+        <text>CHAPTER 93</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c93_r1.htm" />
+    </navPoint>
+    <navPoint id="c94" playOrder="101">
+      <navLabel>
+        <text>CHAPTER 94</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c94_r1.htm" />
+    </navPoint>
+    <navPoint id="c95" playOrder="102">
+      <navLabel>
+        <text>CHAPTER 95</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c95_r1.htm" />
+    </navPoint>
+    <navPoint id="c96" playOrder="103">
+      <navLabel>
+        <text>CHAPTER 96</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c96_r1.htm" />
+    </navPoint>
+    <navPoint id="c97" playOrder="104">
+      <navLabel>
+        <text>CHAPTER 97</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c97_r1.htm" />
+    </navPoint>
+    <navPoint id="c98" playOrder="105">
+      <navLabel>
+        <text>CHAPTER 98</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c98_r1.htm" />
+    </navPoint>
+    <navPoint id="c99" playOrder="106">
+      <navLabel>
+        <text>CHAPTER 99</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_c99_r1.htm" />
+    </navPoint>
+    <navPoint id="c100" playOrder="107">
+      <navLabel>
+        <text>CHAPTER 100</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_100_r1.htm" />
+    </navPoint>
+    <navPoint id="c101" playOrder="108">
+      <navLabel>
+        <text>CHAPTER 101</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_101_r1.htm" />
+    </navPoint>
+    <navPoint id="c102" playOrder="109">
+      <navLabel>
+        <text>CHAPTER 102</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_102_r1.htm" />
+    </navPoint>
+    <navPoint id="c103" playOrder="110">
+      <navLabel>
+        <text>CHAPTER 103</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_103_r1.htm" />
+    </navPoint>
+    <navPoint id="c104" playOrder="111">
+      <navLabel>
+        <text>CHAPTER 104</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_104_r1.htm" />
+    </navPoint>
+    <navPoint id="c105" playOrder="112">
+      <navLabel>
+        <text>CHAPTER 105</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_105_r1.htm" />
+    </navPoint>
+    <navPoint id="c106" playOrder="113">
+      <navLabel>
+        <text>CHAPTER 106</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_106_r1.htm" />
+    </navPoint>
+    <navPoint id="c107" playOrder="114">
+      <navLabel>
+        <text>CHAPTER 107</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_107_r1.htm" />
+    </navPoint>
+    <navPoint id="c108" playOrder="115">
+      <navLabel>
+        <text>CHAPTER 108</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_108_r1.htm" />
+    </navPoint>
+    <navPoint id="c109" playOrder="116">
+      <navLabel>
+        <text>CHAPTER 109</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_109_r1.htm" />
+    </navPoint>
+    <navPoint id="c110" playOrder="117">
+      <navLabel>
+        <text>CHAPTER 110</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_110_r1.htm" />
+    </navPoint>
+    <navPoint id="c111" playOrder="118">
+      <navLabel>
+        <text>CHAPTER 111</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_111_r1.htm" />
+    </navPoint>
+    <navPoint id="c112" playOrder="119">
+      <navLabel>
+        <text>CHAPTER 112</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_112_r1.htm" />
+    </navPoint>
+    <navPoint id="c113" playOrder="120">
+      <navLabel>
+        <text>CHAPTER 113</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_113_r1.htm" />
+    </navPoint>
+    <navPoint id="c114" playOrder="121">
+      <navLabel>
+        <text>CHAPTER 114</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_114_r1.htm" />
+    </navPoint>
+    <navPoint id="c115" playOrder="122">
+      <navLabel>
+        <text>CHAPTER 115</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_115_r1.htm" />
+    </navPoint>
+    <navPoint id="c116" playOrder="123">
+      <navLabel>
+        <text>CHAPTER 116</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_116_r1.htm" />
+    </navPoint>
+    <navPoint id="c117" playOrder="124">
+      <navLabel>
+        <text>CHAPTER 117</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_117_r1.htm" />
+    </navPoint>
+    <navPoint id="c118" playOrder="125">
+      <navLabel>
+        <text>CHAPTER 118</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_118_r1.htm" />
+    </navPoint>
+    <navPoint id="c119" playOrder="126">
+      <navLabel>
+        <text>CHAPTER 119</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_119_r1.htm" />
+    </navPoint>
+    <navPoint id="c120" playOrder="127">
+      <navLabel>
+        <text>CHAPTER 120</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_120_r1.htm" />
+    </navPoint>
+    <navPoint id="c121" playOrder="128">
+      <navLabel>
+        <text>CHAPTER 121</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_121_r1.htm" />
+    </navPoint>
+    <navPoint id="c122" playOrder="129">
+      <navLabel>
+        <text>CHAPTER 122</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_122_r1.htm" />
+    </navPoint>
+    <navPoint id="c123" playOrder="130">
+      <navLabel>
+        <text>CHAPTER 123</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_123_r1.htm" />
+    </navPoint>
+    <navPoint id="c124" playOrder="131">
+      <navLabel>
+        <text>CHAPTER 124</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_124_r1.htm" />
+    </navPoint>
+    <navPoint id="c125" playOrder="132">
+      <navLabel>
+        <text>CHAPTER 125</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_125_r1.htm" />
+    </navPoint>
+    <navPoint id="c126" playOrder="133">
+      <navLabel>
+        <text>CHAPTER 126</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_126_r1.htm" />
+    </navPoint>
+    <navPoint id="c127" playOrder="134">
+      <navLabel>
+        <text>CHAPTER 127</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_127_r1.htm" />
+    </navPoint>
+    <navPoint id="c128" playOrder="135">
+      <navLabel>
+        <text>CHAPTER 128</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_128_r1.htm" />
+    </navPoint>
+    <navPoint id="c129" playOrder="136">
+      <navLabel>
+        <text>CHAPTER 129</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_129_r1.htm" />
+    </navPoint>
+    <navPoint id="c130" playOrder="137">
+      <navLabel>
+        <text>CHAPTER 130</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_130_r1.htm" />
+    </navPoint>
+    <navPoint id="c131" playOrder="138">
+      <navLabel>
+        <text>CHAPTER 131</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_131_r1.htm" />
+    </navPoint>
+    <navPoint id="c132" playOrder="139">
+      <navLabel>
+        <text>CHAPTER 132</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_132_r1.htm" />
+    </navPoint>
+    <navPoint id="c133" playOrder="140">
+      <navLabel>
+        <text>CHAPTER 133</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_133_r1.htm" />
+    </navPoint>
+    <navPoint id="c134" playOrder="141">
+      <navLabel>
+        <text>CHAPTER 134</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_134_r1.htm" />
+    </navPoint>
+    <navPoint id="c135" playOrder="142">
+      <navLabel>
+        <text>CHAPTER 135</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_135_r1.htm" />
+    </navPoint>
+    <navPoint id="bm1" playOrder="143">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm1_r1.htm" />
+    </navPoint>
+    <navPoint id="bm2" playOrder="144">
+      <navLabel>
+        <text>Herman Melville: A Biographical Note</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm2_r1.htm" />
+    </navPoint>
+    <navPoint id="bm3" playOrder="145">
+      <navLabel>
+        <text>Letters</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm3_r1.htm" />
+    </navPoint>
+    <navPoint id="bm4" playOrder="146">
+      <navLabel>
+        <text>Moby-Dick and Its Contemporary Reviews</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm4_r1.htm" />
+    </navPoint>
+    <navPoint id="bm5" playOrder="147">
+      <navLabel>
+        <text>Moby-Dick and Its Modern Critics</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm5_r1.htm" />
+    </navPoint>
+    <navPoint id="bm6" playOrder="148">
+      <navLabel>
+        <text>Recommended Reading</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_bm6_r1.htm" />
+    </navPoint>
+    <navPoint id="ata" playOrder="149">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_ata_r1.htm" />
+    </navPoint>
+    <navPoint id="adc" playOrder="150">
+      <navLabel>
+        <text>ASK YOUR BOOKSELLER FOR THESE BANTAM CLASSICS</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_adc_r1.htm" />
+    </navPoint>
+    <navPoint id="cop" playOrder="151">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="OEBPS/Melv_9780553898101_epub_cop_r1.htm" />
+    </navPoint>
+  </navMap>
+</ncx>

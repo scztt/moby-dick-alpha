@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Moby-Dick</dc:title>
+    <dc:creator opf:role="aut">Herman Melville</dc:creator>
+    <dc:publisher>Bantam</dc:publisher>
+    <dc:date>2003-11-04</dc:date>
+    <dc:format>ePub</dc:format>
+    <dc:identifier id="uid" opf:scheme="ISBN">9780553898101</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright 1967</dc:rights>
+    <meta content="cover-image" name="cover"/>
+    <meta content="1.1" name="epubcheckversion"/>
+    <meta content="2011-01-28" name="epubcheckdate"/>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+  </metadata>
+  <manifest>
+    <item href="_toc_ncx_.ncx" id="_toc_ncx_" media-type="application/x-dtbncx+xml"/>
+    <item href="OEBPS/images/Melv_9780553898101_epub_003_r1.jpg" id="Melv_9780553898101_epub_003_r1" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Melv_9780553898101_epub_002_r1.jpg" id="Melv_9780553898101_epub_002_r1" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Melv_9780553898101_epub_001_r1.jpg" id="Melv_9780553898101_epub_001_r1" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Melv_9780553898101_epub_cvi_r1.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="OEBPS/images/Melv_9780553898101_epub_cvt_r1.jpg" id="fcvt" media-type="image/jpeg"/>
+    <item href="OEBPS/Melv_9780553898101_epub_cvi_r1.htm" id="cvi" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_tp_r1.htm" id="tp" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_toc_r1.htm" id="toc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_ded_r1.htm" id="ded" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_itr_r1.htm" id="itr" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_fm1_r1.htm" id="fm1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_fm2_r1.htm" id="fm2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c01_r1.htm" id="c01" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c02_r1.htm" id="c02" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c03_r1.htm" id="c03" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c04_r1.htm" id="c04" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c05_r1.htm" id="c05" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c06_r1.htm" id="c06" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c07_r1.htm" id="c07" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c08_r1.htm" id="c08" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c09_r1.htm" id="c09" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c10_r1.htm" id="c10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c11_r1.htm" id="c11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c12_r1.htm" id="c12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c13_r1.htm" id="c13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c14_r1.htm" id="c14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c15_r1.htm" id="c15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c16_r1.htm" id="c16" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c17_r1.htm" id="c17" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c18_r1.htm" id="c18" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c19_r1.htm" id="c19" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c20_r1.htm" id="c20" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c21_r1.htm" id="c21" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c22_r1.htm" id="c22" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c23_r1.htm" id="c23" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c24_r1.htm" id="c24" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c25_r1.htm" id="c25" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c26_r1.htm" id="c26" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c27_r1.htm" id="c27" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c28_r1.htm" id="c28" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c29_r1.htm" id="c29" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c30_r1.htm" id="c30" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c31_r1.htm" id="c31" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c32_r1.htm" id="c32" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c33_r1.htm" id="c33" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c34_r1.htm" id="c34" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c35_r1.htm" id="c35" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c36_r1.htm" id="c36" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c37_r1.htm" id="c37" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c38_r1.htm" id="c38" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c39_r1.htm" id="c39" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c40_r1.htm" id="c40" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c41_r1.htm" id="c41" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c42_r1.htm" id="c42" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c43_r1.htm" id="c43" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c44_r1.htm" id="c44" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c45_r1.htm" id="c45" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c46_r1.htm" id="c46" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c47_r1.htm" id="c47" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c48_r1.htm" id="c48" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c49_r1.htm" id="c49" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c50_r1.htm" id="c50" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c51_r1.htm" id="c51" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c52_r1.htm" id="c52" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c53_r1.htm" id="c53" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c54_r1.htm" id="c54" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c55_r1.htm" id="c55" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c56_r1.htm" id="c56" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c57_r1.htm" id="c57" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c58_r1.htm" id="c58" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c59_r1.htm" id="c59" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c60_r1.htm" id="c60" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c61_r1.htm" id="c61" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c62_r1.htm" id="c62" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c63_r1.htm" id="c63" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c64_r1.htm" id="c64" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c65_r1.htm" id="c65" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c66_r1.htm" id="c66" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c67_r1.htm" id="c67" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c68_r1.htm" id="c68" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c69_r1.htm" id="c69" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c70_r1.htm" id="c70" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c71_r1.htm" id="c71" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c72_r1.htm" id="c72" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c73_r1.htm" id="c73" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c74_r1.htm" id="c74" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c75_r1.htm" id="c75" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c76_r1.htm" id="c76" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c77_r1.htm" id="c77" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c78_r1.htm" id="c78" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c79_r1.htm" id="c79" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c80_r1.htm" id="c80" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c81_r1.htm" id="c81" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c82_r1.htm" id="c82" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c83_r1.htm" id="c83" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c84_r1.htm" id="c84" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c85_r1.htm" id="c85" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c86_r1.htm" id="c86" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c87_r1.htm" id="c87" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c88_r1.htm" id="c88" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c89_r1.htm" id="c89" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c90_r1.htm" id="c90" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c91_r1.htm" id="c91" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c92_r1.htm" id="c92" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c93_r1.htm" id="c93" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c94_r1.htm" id="c94" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c95_r1.htm" id="c95" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c96_r1.htm" id="c96" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c97_r1.htm" id="c97" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c98_r1.htm" id="c98" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_c99_r1.htm" id="c99" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_100_r1.htm" id="c100" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_101_r1.htm" id="c101" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_102_r1.htm" id="c102" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_103_r1.htm" id="c103" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_104_r1.htm" id="c104" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_105_r1.htm" id="c105" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_106_r1.htm" id="c106" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_107_r1.htm" id="c107" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_108_r1.htm" id="c108" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_109_r1.htm" id="c109" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_110_r1.htm" id="c110" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_111_r1.htm" id="c111" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_112_r1.htm" id="c112" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_113_r1.htm" id="c113" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_114_r1.htm" id="c114" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_115_r1.htm" id="c115" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_116_r1.htm" id="c116" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_117_r1.htm" id="c117" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_118_r1.htm" id="c118" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_119_r1.htm" id="c119" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_120_r1.htm" id="c120" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_121_r1.htm" id="c121" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_122_r1.htm" id="c122" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_123_r1.htm" id="c123" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_124_r1.htm" id="c124" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_125_r1.htm" id="c125" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_126_r1.htm" id="c126" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_127_r1.htm" id="c127" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_128_r1.htm" id="c128" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_129_r1.htm" id="c129" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_130_r1.htm" id="c130" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_131_r1.htm" id="c131" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_132_r1.htm" id="c132" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_133_r1.htm" id="c133" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_134_r1.htm" id="c134" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_135_r1.htm" id="c135" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm1_r1.htm" id="bm1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm2_r1.htm" id="bm2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm3_r1.htm" id="bm3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm4_r1.htm" id="bm4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm5_r1.htm" id="bm5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_bm6_r1.htm" id="bm6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_ata_r1.htm" id="ata" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_adc_r1.htm" id="adc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_ftn_r1.htm" id="ftn" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_cop_r1.htm" id="cop" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Melv_9780553898101_epub_css_r1.css" id="style" media-type="text/css"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_" toc="_toc_ncx_">
+    <itemref idref="cvi" linear="yes"/>
+    <itemref idref="tp" linear="yes"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="ded" linear="yes"/>
+    <itemref idref="itr" linear="yes"/>
+    <itemref idref="fm1" linear="yes"/>
+    <itemref idref="fm2" linear="yes"/>
+    <itemref idref="c01" linear="yes"/>
+    <itemref idref="c02" linear="yes"/>
+    <itemref idref="c03" linear="yes"/>
+    <itemref idref="c04" linear="yes"/>
+    <itemref idref="c05" linear="yes"/>
+    <itemref idref="c06" linear="yes"/>
+    <itemref idref="c07" linear="yes"/>
+    <itemref idref="c08" linear="yes"/>
+    <itemref idref="c09" linear="yes"/>
+    <itemref idref="c10" linear="yes"/>
+    <itemref idref="c11" linear="yes"/>
+    <itemref idref="c12" linear="yes"/>
+    <itemref idref="c13" linear="yes"/>
+    <itemref idref="c14" linear="yes"/>
+    <itemref idref="c15" linear="yes"/>
+    <itemref idref="c16" linear="yes"/>
+    <itemref idref="c17" linear="yes"/>
+    <itemref idref="c18" linear="yes"/>
+    <itemref idref="c19" linear="yes"/>
+    <itemref idref="c20" linear="yes"/>
+    <itemref idref="c21" linear="yes"/>
+    <itemref idref="c22" linear="yes"/>
+    <itemref idref="c23" linear="yes"/>
+    <itemref idref="c24" linear="yes"/>
+    <itemref idref="c25" linear="yes"/>
+    <itemref idref="c26" linear="yes"/>
+    <itemref idref="c27" linear="yes"/>
+    <itemref idref="c28" linear="yes"/>
+    <itemref idref="c29" linear="yes"/>
+    <itemref idref="c30" linear="yes"/>
+    <itemref idref="c31" linear="yes"/>
+    <itemref idref="c32" linear="yes"/>
+    <itemref idref="c33" linear="yes"/>
+    <itemref idref="c34" linear="yes"/>
+    <itemref idref="c35" linear="yes"/>
+    <itemref idref="c36" linear="yes"/>
+    <itemref idref="c37" linear="yes"/>
+    <itemref idref="c38" linear="yes"/>
+    <itemref idref="c39" linear="yes"/>
+    <itemref idref="c40" linear="yes"/>
+    <itemref idref="c41" linear="yes"/>
+    <itemref idref="c42" linear="yes"/>
+    <itemref idref="c43" linear="yes"/>
+    <itemref idref="c44" linear="yes"/>
+    <itemref idref="c45" linear="yes"/>
+    <itemref idref="c46" linear="yes"/>
+    <itemref idref="c47" linear="yes"/>
+    <itemref idref="c48" linear="yes"/>
+    <itemref idref="c49" linear="yes"/>
+    <itemref idref="c50" linear="yes"/>
+    <itemref idref="c51" linear="yes"/>
+    <itemref idref="c52" linear="yes"/>
+    <itemref idref="c53" linear="yes"/>
+    <itemref idref="c54" linear="yes"/>
+    <itemref idref="c55" linear="yes"/>
+    <itemref idref="c56" linear="yes"/>
+    <itemref idref="c57" linear="yes"/>
+    <itemref idref="c58" linear="yes"/>
+    <itemref idref="c59" linear="yes"/>
+    <itemref idref="c60" linear="yes"/>
+    <itemref idref="c61" linear="yes"/>
+    <itemref idref="c62" linear="yes"/>
+    <itemref idref="c63" linear="yes"/>
+    <itemref idref="c64" linear="yes"/>
+    <itemref idref="c65" linear="yes"/>
+    <itemref idref="c66" linear="yes"/>
+    <itemref idref="c67" linear="yes"/>
+    <itemref idref="c68" linear="yes"/>
+    <itemref idref="c69" linear="yes"/>
+    <itemref idref="c70" linear="yes"/>
+    <itemref idref="c71" linear="yes"/>
+    <itemref idref="c72" linear="yes"/>
+    <itemref idref="c73" linear="yes"/>
+    <itemref idref="c74" linear="yes"/>
+    <itemref idref="c75" linear="yes"/>
+    <itemref idref="c76" linear="yes"/>
+    <itemref idref="c77" linear="yes"/>
+    <itemref idref="c78" linear="yes"/>
+    <itemref idref="c79" linear="yes"/>
+    <itemref idref="c80" linear="yes"/>
+    <itemref idref="c81" linear="yes"/>
+    <itemref idref="c82" linear="yes"/>
+    <itemref idref="c83" linear="yes"/>
+    <itemref idref="c84" linear="yes"/>
+    <itemref idref="c85" linear="yes"/>
+    <itemref idref="c86" linear="yes"/>
+    <itemref idref="c87" linear="yes"/>
+    <itemref idref="c88" linear="yes"/>
+    <itemref idref="c89" linear="yes"/>
+    <itemref idref="c90" linear="yes"/>
+    <itemref idref="c91" linear="yes"/>
+    <itemref idref="c92" linear="yes"/>
+    <itemref idref="c93" linear="yes"/>
+    <itemref idref="c94" linear="yes"/>
+    <itemref idref="c95" linear="yes"/>
+    <itemref idref="c96" linear="yes"/>
+    <itemref idref="c97" linear="yes"/>
+    <itemref idref="c98" linear="yes"/>
+    <itemref idref="c99" linear="yes"/>
+    <itemref idref="c100" linear="yes"/>
+    <itemref idref="c101" linear="yes"/>
+    <itemref idref="c102" linear="yes"/>
+    <itemref idref="c103" linear="yes"/>
+    <itemref idref="c104" linear="yes"/>
+    <itemref idref="c105" linear="yes"/>
+    <itemref idref="c106" linear="yes"/>
+    <itemref idref="c107" linear="yes"/>
+    <itemref idref="c108" linear="yes"/>
+    <itemref idref="c109" linear="yes"/>
+    <itemref idref="c110" linear="yes"/>
+    <itemref idref="c111" linear="yes"/>
+    <itemref idref="c112" linear="yes"/>
+    <itemref idref="c113" linear="yes"/>
+    <itemref idref="c114" linear="yes"/>
+    <itemref idref="c115" linear="yes"/>
+    <itemref idref="c116" linear="yes"/>
+    <itemref idref="c117" linear="yes"/>
+    <itemref idref="c118" linear="yes"/>
+    <itemref idref="c119" linear="yes"/>
+    <itemref idref="c120" linear="yes"/>
+    <itemref idref="c121" linear="yes"/>
+    <itemref idref="c122" linear="yes"/>
+    <itemref idref="c123" linear="yes"/>
+    <itemref idref="c124" linear="yes"/>
+    <itemref idref="c125" linear="yes"/>
+    <itemref idref="c126" linear="yes"/>
+    <itemref idref="c127" linear="yes"/>
+    <itemref idref="c128" linear="yes"/>
+    <itemref idref="c129" linear="yes"/>
+    <itemref idref="c130" linear="yes"/>
+    <itemref idref="c131" linear="yes"/>
+    <itemref idref="c132" linear="yes"/>
+    <itemref idref="c133" linear="yes"/>
+    <itemref idref="c134" linear="yes"/>
+    <itemref idref="c135" linear="yes"/>
+    <itemref idref="bm1" linear="yes"/>
+    <itemref idref="bm2" linear="yes"/>
+    <itemref idref="bm3" linear="yes"/>
+    <itemref idref="bm4" linear="yes"/>
+    <itemref idref="bm5" linear="yes"/>
+    <itemref idref="bm6" linear="yes"/>
+    <itemref idref="ata" linear="yes"/>
+    <itemref idref="adc" linear="yes"/>
+    <itemref idref="ftn" linear="yes"/>
+    <itemref idref="cop" linear="yes"/>
+  </spine>
+</package>
